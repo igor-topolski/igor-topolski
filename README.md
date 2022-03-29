@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Igor Topolski
-## 👨‍💻 Software Engineer at [WCKD RZR](https://wckdrzr.com)
+## 👨‍💻 Software Engineer at ... COMING SOON
