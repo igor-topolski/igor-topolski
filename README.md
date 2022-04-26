@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Igor Topolski
-## 👨‍💻 Software Engineer at ... COMING SOON
+## 👨‍💻 Software Engineer at [Checkout.com](https://checkout.com)
