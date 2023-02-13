@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Igor Topolski
-## 👨‍💻 Software Engineer at [Sainsbury's Digital, Tech & Data](https://uk.linkedin.com/company/sainsburysdtd)
+## 👨‍💻 Staff Software Engineer at [Sainsbury's Digital, Tech & Data](https://uk.linkedin.com/company/sainsburysdtd)
