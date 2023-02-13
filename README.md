@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Igor Topolski
-## 👨‍💻 Software Engineer at [Checkout.com](https://checkout.com)
+## 👨‍💻 Software Engineer at [Sainsbury's Digital, Tech & Data]([https://checkout.com](https://uk.linkedin.com/company/sainsburysdtd))
